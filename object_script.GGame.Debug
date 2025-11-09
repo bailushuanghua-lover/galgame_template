@@ -1,0 +1,11 @@
+debug/capturer.o
+debug/esc.o
+debug/keymonitor.o
+debug/main.o
+debug/mainwindow.o
+debug/start_web.o
+debug/qrc_res.o
+debug/moc_capturer.o
+debug/moc_esc.o
+debug/moc_mainwindow.o
+debug/moc_start_web.o
